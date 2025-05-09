@@ -1,0 +1,105 @@
+{
+    "last_updated": "2025-04-28T19:21:14.568806",
+    "data": [
+        {
+            "anime_id": 16498,
+            "Name": "Shingeki no Kyojin",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+            "Genres": [
+                "Action",
+                "Award Winning",
+                "Drama",
+                "Suspense"
+            ]
+        },
+        {
+            "anime_id": 1535,
+            "Name": "Death Note",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+            "Genres": [
+                "Supernatural",
+                "Suspense"
+            ]
+        },
+        {
+            "anime_id": 5114,
+            "Name": "Fullmetal Alchemist: Brotherhood",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "anime_id": 30276,
+            "Name": "One Punch Man",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "Genres": [
+                "Action",
+                "Comedy"
+            ]
+        },
+        {
+            "anime_id": 38000,
+            "Name": "Kimetsu no Yaiba",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+            "Genres": [
+                "Action",
+                "Award Winning",
+                "Supernatural"
+            ]
+        },
+        {
+            "anime_id": 11757,
+            "Name": "Sword Art Online",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Romance"
+            ]
+        },
+        {
+            "anime_id": 31964,
+            "Name": "Boku no Hero Academia",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+            "Genres": [
+                "Action"
+            ]
+        },
+        {
+            "anime_id": 11061,
+            "Name": "Hunter x Hunter (2011)",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "anime_id": 20,
+            "Name": "Naruto",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+            "Genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "anime_id": 22319,
+            "Name": "Tokyo Ghoul",
+            "Img_url": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+            "Genres": [
+                "Action",
+                "Fantasy",
+                "Horror",
+                "Suspense"
+            ]
+        }
+    ]
+}

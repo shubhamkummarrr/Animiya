@@ -1,0 +1,65 @@
+/* Background styling */
+.home-background {
+    background: linear-gradient(rgba(0, 0, 0,0), rgba(0, 0, 0, 1)), url('HomeBackground.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    color: #00000065;
+}
+
+
+
+.home-content{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: flex;
+    height: 85%;
+    width: 90%;
+}
+
+
+
+.home-container {
+    background-color: rgba(0, 0, 0, 0.197);
+    flex-grow: 2;
+    flex-shrink: 1;
+    overflow-y: auto; /* 👈 yeh scroll ke liye */
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    width: 40vw;
+    display: flex;
+}
+
+/* Optional scrollbar styling */
+.home-container::-webkit-scrollbar {
+    width: 8px;
+}
+.home-container::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+
+.home-news{
+    background-color: rgba(0, 0, 0, 0.527);
+    flex-grow: 1;
+    flex-shrink: 2;
+    overflow-x: auto;
+    width: 20vh;
+}
+
+.home-news div a img {
+    width: 85%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.home-news span {
+    font-size: 1rem;
+    width: 2rem;
+}
+
